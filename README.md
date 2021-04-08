@@ -15,9 +15,9 @@ Output:
 
 # Endpoints
 
-POST /flatten  
-GET /flatten_logs  <- query the log table
-GET /docs  <-  provided by fastapi
+- POST /flatten  
+- GET /flatten_logs  <- query the log table
+- GET /docs  <-  provided by fastapi
 
 # Docker 
 
