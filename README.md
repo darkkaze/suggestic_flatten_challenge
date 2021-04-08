@@ -28,14 +28,14 @@ docker run -p 8000:8000 <DOCKER_ID>
 
 ~~~
 
-#Unit Test
+# Unit Test
 ~~~
 cd app
 pytest
 ~~~
 
 
-#Notes
+# Notes
 
 write this endpoint using fastapi, sqlalchemy  and pytest 
 
